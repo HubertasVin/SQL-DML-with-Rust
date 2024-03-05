@@ -1,0 +1,11 @@
+[package]
+name = "sql_dml_with_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ctrlc = "3.1.0"
+rustyline = "13.0.0"
+termsize = "0.1.6"
