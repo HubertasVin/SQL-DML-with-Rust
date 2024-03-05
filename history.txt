@@ -1,0 +1,10 @@
+#V2
+select
+select *
+select *;
+show tables
+hello
+show tables
+show  tables
+show table e
+show table employees

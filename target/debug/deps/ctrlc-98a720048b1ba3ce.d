@@ -1,0 +1,11 @@
+/home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/target/debug/deps/libctrlc-98a720048b1ba3ce.rmeta: /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs
+
+/home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/target/debug/deps/libctrlc-98a720048b1ba3ce.rlib: /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs
+
+/home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/target/debug/deps/ctrlc-98a720048b1ba3ce.d: /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs
+
+/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs:
+/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs:
+/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs:
+/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs:
+/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs:
