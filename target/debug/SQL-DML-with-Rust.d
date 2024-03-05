@@ -1,1 +1,0 @@
-/home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/target/debug/SQL-DML-with-Rust: /home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/src/data_frame.rs /home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/src/database.rs /home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/src/main.rs

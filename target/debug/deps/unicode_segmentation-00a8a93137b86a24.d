@@ -1,9 +1,0 @@
-/home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/target/debug/deps/libunicode_segmentation-00a8a93137b86a24.rmeta: /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/lib.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/grapheme.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/sentence.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/word.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/tables.rs
-
-/home/hubertas/Documents/BackupFolder/Programming/Rust/SQL-DML/target/debug/deps/unicode_segmentation-00a8a93137b86a24.d: /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/lib.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/grapheme.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/sentence.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/word.rs /home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/tables.rs
-
-/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/lib.rs:
-/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/grapheme.rs:
-/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/sentence.rs:
-/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/word.rs:
-/home/hubertas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.11.0/src/tables.rs:
