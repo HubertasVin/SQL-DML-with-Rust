@@ -8,6 +8,7 @@ mod parser;
 mod statement_adt;
 mod executor;
 mod table_drawer;
+mod tokenizer;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut rl = DefaultEditor::new()?;
@@ -27,14 +28,15 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                 let parsed_statement = parser::parse_to_adt(line.as_str());
                 match parsed_statement {
                     Ok(statement) => {
-                        match execute_statement(statement) {
-                            Ok(data_frame) => {
-                                table_drawer::draw_table(data_frame);
-                            }
-                            Err(e) => {
-                                println!("Error: {}", e);
-                            }
-                        }
+                        println!("The ParsedStatement content: {}", statement.to_string());
+                        // match execute_statement(statement) {
+                        //     Ok(data_frame) => {
+                        //         table_drawer::draw_table(data_frame);
+                        //     }
+                        //     Err(e) => {
+                        //         println!("Error: {}", e);
+                        //     }
+                        // }
                     }
                     Err(e) => {
                         println!("Error: {}", e);

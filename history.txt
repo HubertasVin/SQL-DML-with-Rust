@@ -8,3 +8,57 @@ show tables
 show  tables
 show table e
 show table employees
+43
+show tables
+43
+select
+43
+select
+show
+tables
+43
+"hekko"
+43
+table
+"hello"
+"hello
+"hello"
+"hello "
+"hello " 
+"hello"
+"hell"
+43
+hello
+"hell"
+hell"
+"hell"
+hell"
+table
+43 43
+show
+43
+43g
+43 43
+show show
+show
+"hello"
+"hello" "hello"
+"hello"
+"hello
+show
+show tables
+"hello
+"hello"
+" hello"
+" hello     "
+"hello"
+" hello     world"
+show
+show tables
+show
+show tables
+tables
+dsaf asdf
+tables
+show tables
+select * from Employees;

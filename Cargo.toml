@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 ctrlc = "3.1.0"
-rustyline = "13.0.0"
+rustyline = "14.0.0"
 termsize = "0.1.6"
+regex = "1.5.4"
